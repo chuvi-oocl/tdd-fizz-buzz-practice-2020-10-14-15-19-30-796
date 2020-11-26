@@ -21,6 +21,7 @@ public class FizzBuzzTest {
 
         assertEquals("1", actual);
     }
+
     @Test
     public void should_return_Fizz_when_count_off_given_order_number_multiple_of_3() {
         //given
