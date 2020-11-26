@@ -11,7 +11,7 @@ public class FizzBuzz {
             this.result += "Buzz";
         }
         if (order % 7 == 0) {
-            return "Whizz";
+            this.result += "Whizz";
         }
         if (!this.result.equals("")) {
             return this.result;
