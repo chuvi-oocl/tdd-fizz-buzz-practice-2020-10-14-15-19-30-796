@@ -20,7 +20,7 @@ public class FizzBuzzTest {
 
         //then
 
-        assertEquals("2", actual);
+        assertEquals("1", actual);
     }
 
     @Test
